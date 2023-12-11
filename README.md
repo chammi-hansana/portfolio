@@ -1,4 +1,3 @@
 # portfolio
 portfolio
-
-![Uploading Screenshot 2023-12-11 at 10-50-28 Chammi Hansana.png…]()
+file:///C:/Users/USER/Downloads/Screenshot%202023-12-11%20at%2010-50-28%20Chammi%20Hansana.png
