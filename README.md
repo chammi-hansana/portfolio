@@ -1,3 +1,3 @@
 # portfolio
 portfolio
-file:///C:/Users/USER/Downloads/Screenshot%202023-12-11%20at%2010-50-28%20Chammi%20Hansana.png
+(https://github.com/chammi-hansana/portfolio/assets/84610582/6165fe08-7e41-4f10-8a60-0f3be7baeef3)
